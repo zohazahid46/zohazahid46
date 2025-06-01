@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Zoha Zahid 👋
 
-<!--
-**zohazahid46/zohazahid46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Software Engineering Student** passionate about building web applications and learning new technologies.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- JavaScript
+- HTML & CSS
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Improve my frontend development skills
+- Start contributing to open-source projects
+- Build a portfolio of creative web apps
+
+## ✨ Fun Facts
+- 🏡 I enjoy interior designing and making creative spaces
+- 📖 I'm an avid reader in my free time
+
+
+
+Thanks for visiting! 😊
